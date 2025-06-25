@@ -1,6 +1,10 @@
 HPV-Kite
 ========
 
+_HPV-Kite in an independent application aiming to detect only HPV genomes in metagenome data.
+[KITE](https://github.com/hpdcj/KITE) is an application aiming to detect any combination of microbe genome selected to be detected from metagenome data._
+
+
 # Introduction
 
 HPV-Kite is a Java application that detects HPV within samples. It can be used for DNA and/or RNA FASTQ files.
